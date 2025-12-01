@@ -4,8 +4,11 @@ This repository contains contains Python-based implementations of the cavity Bor
 and Coupled Cluster (CC) methods in the cavity reaction potential (CRP) formulation for applications in ab initio
 vibro-polaritonic chemistry. 
 
-The theory was presented [here](https://arxiv.org/abs/2406.18355) and [there](https://arxiv.org/abs/2507.10100) 
-and published under DOI:10.1063/5.0231528 and DOI:10.1021/acs.jctc.5c01604
+The theoretical background, implementation and model applications was presented in two publications:
+
+- E.W. Fischer, J. Chem. Phys. 161, 164112 (2024), doi:10.1063/5.0231528
+- E.W. Fischer, J. Chem. Theory Comput. 2025, XXXX, XXX, XXX-XXX, doi:10.1021/acs.jctc.5c01604
+
 
 CRP-CBO-QC requires python, pyscf and numpy.
 
