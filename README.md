@@ -9,7 +9,6 @@ The theoretical background, implementation and model applications was presented 
 - E.W. Fischer, J. Chem. Phys. 161, 164112 (2024), doi:10.1063/5.0231528
 - E.W. Fischer, J. Chem. Theory Comput. 2025, XXXX, XXX, XXX-XXX, doi:10.1021/acs.jctc.5c01604
 
-
 CRP-CBO-QC requires python, pyscf and numpy.
 
 ## CRP-RHF
