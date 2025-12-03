@@ -8,7 +8,11 @@ Created on Tue Dec  3 09:39:06 2024
 Implementation of cavity reaction potential (CRP) formulation of the 
 cavity Born-Oppenheimer (CBO) restricted Hartree-Fock (RHF) method (CBO-RHF)
 
-CRP-formulation minimizes electronic energy in cavity subspace
+CRP-formulation minimizes electronic energy in cavity subspace.
+
+Literature: 
+Fischer, J. Chem. Phys. 161, 164112 (2024), doi:10.1063/5.0231528
+Fischer, J. Chem. Theory Comput. (2025) doi:10.1021/acs.jctc.5c01604
 """
 
 import numpy as np
