@@ -13,9 +13,9 @@ CRP-CBO-QC requires python, pyscf and numpy.
 
 ## CRP-RHF
 
-Mean-field approach to electronic energies in ab initio vibro-polaritonic chemistry. 
+Mean-field approach to dipole-fluctuation corrected electronic energies in ab initio vibro-polaritonic chemistry. 
 
 ## CRP-CCSD
 
-Correlated approach to electronic energies in ab initio vibro-polaritonic chemistry. 
-Contains self-consistent and linearised CRP-CCSD versions.
+Correlated approach to dipole-fluctuation corrected electronic energies in ab initio vibro-polaritonic chemistry. 
+Contains self-consistent (iterative_crp_ccsd) and linearised (lin_crp_ccsd) CRP-CCSD versions.
